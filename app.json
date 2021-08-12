@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-first-app",
+    "slug": "react-native-first-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-first-app"
+}
